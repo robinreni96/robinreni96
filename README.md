@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 🌍, I'm Robin Reni</h1>
 <h3 align="center">A passionate fullstack ML Guy from India</h3>
 
-- 🔭 I’m currently working in **IQVIA**
+- 🔭 I’m currently working in **Webdura Technologies as Senior ML Engineer** | Former Data Scientist at IQVIA | Former AI Engineer at Innovation Incubator
 
 - 📝 I regularly write articles on [www.robinreni.blog](www.robinreni.blog)
 
