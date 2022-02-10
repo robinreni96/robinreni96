@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [www.robinreni.blog](www.robinreni.blog)
 
-- 💬 Ask me about **Python, Microservices, Distributed Computing, ML, Backend Engineering**
+- 💬 Ask me about **Python, Microservices, Distributed Computing, ML, Backend Engineering, Serverless, AWS Cloud**
 
 - 📫 How to reach me **robinreni96@gmail.com**
 
