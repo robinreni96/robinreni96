@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Webdura Technologies as Senior ML Engineer** | Former Data Scientist at IQVIA | Former AI Engineer at Innovation Incubator
 
-- 📝 I regularly write articles on [www.robinreni.blog](www.robinreni.blog)
+- 📝 I regularly write articles on [www.robinreni.blog](https://www.robinreni.blog)
 
 - 💬 Ask me about **Python, Microservices, Distributed Computing, ML, Backend Engineering, Serverless, AWS Cloud**
 
